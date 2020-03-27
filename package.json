@@ -1,0 +1,23 @@
+{
+  "name": "very-deluxe-bot",
+  "version": "0.1.0",
+  "description": "Twitch Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloeper/very-deluxe-bot.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot"
+  ],
+  "author": "Chris Loeper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloeper/very-deluxe-bot/issues"
+  },
+  "homepage": "https://github.com/cloeper/very-deluxe-bot#readme"
+}
